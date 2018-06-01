@@ -1,4 +1,10 @@
 
+2018-06-01:
+| type | library | version |
+| :-: | - | - |
+| + | BasicX | V0.5.3-Beta Build 20180601 |
+<br>
+
 2018-05-29:
 | type | library | version |
 | :-: | - | - |
