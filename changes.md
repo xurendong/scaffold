@@ -1,4 +1,13 @@
 
+2018-08-17:
+| type | library | version |
+| :-: | - | - |
+| + | BasicX | V0.5.4-Beta Build 20180809 |
+| + | Interface | VIP |
+| - | JsonCpp | V0.6.0-rc2 |
+| + | ZLib | V1.2.11 |
+<br>
+
 2018-06-05:
 | type | library | version |
 | :-: | - | - |
