@@ -1,4 +1,12 @@
 
+2018-09-06:
+| type | library | version |
+| :-: | - | - |
+| + | BasicX | V0.5.5-Beta Build 20180828 |
+| + | Interface | APE |
+| + | SharpX | V0.1.0-Beta Build 20180906 |
+<br>
+
 2018-08-17:
 | type | library | version |
 | :-: | - | - |

@@ -9,14 +9,15 @@ Currently provide Microsoft Visual Studio 2017 support only.
 </div>
 Change the value of "SDKDIR_PATH" in other project's main CMakeLists.txt file to your sdk libraries' folder path.
 <br>You'd better recompile these sdk libraries under your development environment.
-<br>Latest version: 2018-08-17
+<br>Latest version: 2018-09-06
 <br>
 
 | library | version |
 | - | - |
-| BasicX | V0.5.4-Beta Build 20180809 |
+| BasicX | V0.5.5-Beta Build 20180828 |
 | Boost | V1.65.1 |
 | Interface | APE, CTP_F, LTS, TDB, TDF, VIP |
 | MariaDB | V10.2.9 |
 | MySQL | V6.1.11 (5.7.16) |
+| SharpX | V0.1.0-Beta Build 20180906 |
 | ZLib | V1.2.11 |
