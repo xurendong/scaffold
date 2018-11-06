@@ -1,4 +1,12 @@
 
+2018-11-06:
+| type | library | version |
+| :-: | - | - |
+| + | Botan | V2.8.0 |
+| + | CryptoPP | V7.0.0 |
+| + | OpenSSL | V1.1.1 |
+<br>
+
 2018-09-06:
 | type | library | version |
 | :-: | - | - |
