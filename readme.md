@@ -19,7 +19,7 @@ Change the value of "SDKDIR_PATH" in other project's main CMakeLists.txt file to
 | Botan | V2.8.0 |
 | CryptoPP | V7.0.0 |
 | Interface | APE, CTP_F, LTS, TDB, TDF, VIP |
-| MariaDB | V10.2.9 |
+| MariaDB | V3.0.3 (10.2.9) |
 | MySQL | V6.1.11 (5.7.16) |
 | OpenSSL | V1.1.1 |
 | SharpX | V0.1.0-Beta Build 20180906 |

@@ -1,0 +1,50 @@
+
+Library: BasicX
+Version: 0.5.5
+License: BSD & LGPL
+Website: https://github.com/xurendong/basicx
+
+Library: Boost
+Version: 1.65.1
+License: Boost
+Website: http://www.boost.org
+
+Library: Botan
+Version: 2.8.0
+License: BSD
+Website: https://github.com/randombit/botan
+
+Library: CryptoPP
+Version: 7.0.0
+License: Boost
+Website: https://github.com/weidai11/cryptopp
+
+Library: Interface
+Version: None
+License: None
+Website: None
+
+Library: MariaDB Connector/C
+Version: 3.0.3
+License: LGPL
+Website: https://downloads.mariadb.org/connector-c
+
+Library: MySQL Connector/C
+Version: 6.1.11
+License: GPL
+Website: https://dev.mysql.com/downloads/connector/c/
+
+Library: OpenSSL
+Version: 1.1.1
+License: OpenSSL
+Website: https://github.com/openssl/openssl
+
+Library: SharpX
+Version: 0.1.0
+License: BSD & LGPL
+Website: https://github.com/xurendong/sharpx
+
+Library: ZLib
+Version: 1.2.11
+License: ZLib
+Website: http://www.zlib.net/
