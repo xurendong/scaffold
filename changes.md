@@ -1,4 +1,11 @@
 
+2018-11-15:
+| type | library | version |
+| :-: | - | - |
+| + | BerkeleyDB | V18.1.25 |
+| + | LevelDB | V1.2.0 |
+<br>
+
 2018-11-06:
 | type | library | version |
 | :-: | - | - |

@@ -4,6 +4,11 @@ Version: 0.5.5
 License: BSD & LGPL
 Website: https://github.com/xurendong/basicx
 
+Library: BerkeleyDB
+Version: 18.1.25
+License: AGPL
+Website: https://www.oracle.com/technetwork/database/database-technologies/berkeleydb/downloads/index.html
+
 Library: Boost
 Version: 1.65.1
 License: Boost
@@ -23,6 +28,11 @@ Library: Interface
 Version: None
 License: None
 Website: None
+
+Library: LevelDB
+Version: 1.2.0
+License: BSD
+Website: https://github.com/google/leveldb/tree/windows
 
 Library: MariaDB Connector/C
 Version: 3.0.3
@@ -47,4 +57,4 @@ Website: https://github.com/xurendong/sharpx
 Library: ZLib
 Version: 1.2.11
 License: ZLib
-Website: http://www.zlib.net/
+Website: http://www.zlib.net
