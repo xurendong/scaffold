@@ -54,6 +54,16 @@ Version: 0.1.0
 License: BSD & LGPL
 Website: https://github.com/xurendong/sharpx
 
+Library: SQLite
+Version: 3.25.3
+License: Public Domain
+Website: https://www.sqlite.org/index.html
+
+Library: SQLiteCpp
+Version: 2.2.0
+License: MIT
+Website: https://github.com/SRombauts/SQLiteCpp
+
 Library: ZLib
 Version: 1.2.11
 License: ZLib

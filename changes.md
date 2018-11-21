@@ -1,4 +1,11 @@
 
+2018-11-22:
+| type | library | version |
+| :-: | - | - |
+| + | SQLite | V3.25.3 |
+| + | SQLiteCpp | V2.2.0 |
+<br>
+
 2018-11-15:
 | type | library | version |
 | :-: | - | - |

@@ -18,11 +18,13 @@ Currently provide Microsoft Visual Studio 2017 support only.
       - MySQL
       - OpenSSL
       - SharpX
+      - SQLite
+      - SQLiteCpp
       - ZLib
 
 Change the value of "SDKDIR_PATH" in other project's main CMakeLists.txt file to your sdk libraries' folder path.
 <br>You'd better recompile these sdk libraries under your development environment.
-<br>Latest version: 2018-11-15
+<br>Latest version: 2018-11-22
 <br>
 
 | library | version |
@@ -38,4 +40,6 @@ Change the value of "SDKDIR_PATH" in other project's main CMakeLists.txt file to
 | MySQL | V6.1.11 (5.7.16) |
 | OpenSSL | V1.1.1 |
 | SharpX | V0.1.0-Beta Build 20180906 |
+| SQLite | V3.25.3 |
+| SQLiteCpp | V2.2.0 |
 | ZLib | V1.2.11 |
