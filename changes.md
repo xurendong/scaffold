@@ -2,9 +2,12 @@
 2019-07-01:
 | type | plateform | library | version |
 | :-: | - | - | - |
+| + | Linux | BasicX | V0.9.9-Beta Build 20190628 |
 | + | Windows | BasicX | V0.9.9-Beta Build 20190628 |
+| + | Linux | Boost | V1.70.0 |
 | + | Windows | Boost | V1.70.0 |
 | + | Windows | Interface | CTP_F_CT |
+| + | Linux | MariaDB | V10.4.6 |
 <br>
 
 2018-11-22:
