@@ -1,26 +1,26 @@
 
 Library: BasicX
-Version: 0.5.5
+Version: 0.9.9(W)
 License: BSD & LGPL
 Website: https://github.com/xurendong/basicx
 
 Library: BerkeleyDB
-Version: 18.1.25
+Version: 18.1.25(W)
 License: AGPL
 Website: https://www.oracle.com/technetwork/database/database-technologies/berkeleydb/downloads/index.html
 
 Library: Boost
-Version: 1.65.1
+Version: 1.65.1(W)
 License: Boost
 Website: http://www.boost.org
 
 Library: Botan
-Version: 2.8.0
+Version: 2.8.0(W)
 License: BSD
 Website: https://github.com/randombit/botan
 
 Library: CryptoPP
-Version: 7.0.0
+Version: 7.0.0(W)
 License: Boost
 Website: https://github.com/weidai11/cryptopp
 
@@ -30,41 +30,41 @@ License: None
 Website: None
 
 Library: LevelDB
-Version: 1.2.0
+Version: 1.2.0(W)
 License: BSD
 Website: https://github.com/google/leveldb/tree/windows
 
 Library: MariaDB Connector/C
-Version: 3.0.3
+Version: 3.0.3(W)
 License: LGPL
 Website: https://downloads.mariadb.org/connector-c
 
 Library: MySQL Connector/C
-Version: 6.1.11
+Version: 6.1.11(W)
 License: GPL
 Website: https://dev.mysql.com/downloads/connector/c/
 
 Library: OpenSSL
-Version: 1.1.1
+Version: 1.1.1(W)
 License: OpenSSL
 Website: https://github.com/openssl/openssl
 
 Library: SharpX
-Version: 0.1.0
+Version: 0.1.0(W)
 License: BSD & LGPL
 Website: https://github.com/xurendong/sharpx
 
 Library: SQLite
-Version: 3.25.3
+Version: 3.25.3(W)
 License: Public Domain
 Website: https://www.sqlite.org/index.html
 
 Library: SQLiteCpp
-Version: 2.2.0
+Version: 2.2.0(W)
 License: MIT
 Website: https://github.com/SRombauts/SQLiteCpp
 
 Library: ZLib
-Version: 1.2.11
+Version: 1.2.11(W)
 License: ZLib
 Website: http://www.zlib.net
