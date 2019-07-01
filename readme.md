@@ -31,7 +31,7 @@ Change the value of "SDKDIR_PATH" in other project's main CMakeLists.txt file to
 | - | - | - |
 | BasicX | Windows | V0.9.9-Beta Build 20190628 |
 | BerkeleyDB | Windows | V18.1.25 |
-| Boost | Windows | V1.65.1 |
+| Boost | Windows | V1.70.0 |
 | Botan | Windows | V2.8.0 |
 | CryptoPP | Windows | V7.0.0 |
 | Interface | Windows | APE, CTP_F, CTP_F_CT, LTS, TDB, TDF, VIP |

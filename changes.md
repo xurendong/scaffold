@@ -3,6 +3,7 @@
 | type | plateform | library | version |
 | :-: | - | - | - |
 | + | Windows | BasicX | V0.9.9-Beta Build 20190628 |
+| + | Windows | Boost | V1.70.0 |
 | + | Windows | Interface | CTP_F_CT |
 <br>
 
