@@ -1,9 +1,9 @@
 
-2019-07-01:
+2019-07-29:
 | type | plateform | library | version |
 | :-: | - | - | - |
-| + | Linux | BasicX | V0.9.9-Beta Build 20190628 |
-| + | Windows | BasicX | V0.9.9-Beta Build 20190628 |
+| + | Linux | BasicX | V0.9.9-Beta Build 20190726 |
+| + | Windows | BasicX | V0.9.9-Beta Build 20190726 |
 | + | Linux | Boost | V1.70.0 |
 | + | Windows | Boost | V1.70.0 |
 | + | Windows | Interface | CTP_F_CT |
