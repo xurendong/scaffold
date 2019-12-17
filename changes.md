@@ -1,4 +1,11 @@
 
+2019-12-17:
+| type | plateform | library | version |
+| :-: | - | - | - |
+| + | Linux | BasicX | V1.0.2 Build 20191217 |
+| + | Windows | BasicX | V1.0.2 Build 20191217 |
+<br>
+
 2019-12-09:
 | type | plateform | library | version |
 | :-: | - | - | - |

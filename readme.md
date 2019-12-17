@@ -28,13 +28,13 @@ Tested under "CentOS 7 x64 1810 GCC 9.1" and "Windows 10 x64 1909 VS 2017 15.8.6
 
 Change the value of "SDKDIR_PATH" in other project's main CMakeLists.txt file to your sdk libraries' folder path.
 <br>You'd better recompile these sdk libraries under your development environment.
-<br>Latest version: 2019-12-09
+<br>Latest version: 2019-12-17
 <br>
 
 | library | plateform | version |
 | - | - | - |
-| BasicX | Linux | V1.0.1 Build 20191209 |
-| BasicX | Windows | V1.0.1 Build 20191209 |
+| BasicX | Linux | V1.0.2 Build 20191217 |
+| BasicX | Windows | V1.0.2 Build 20191217 |
 | BerkeleyDB | Windows | V18.1.25 |
 | Boost | Linux | V1.70.0 |
 | Boost | Windows | V1.70.0 |
